@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-    printf("hello world this is github session");
+    printf("hello world this is github workshop now");
 }
